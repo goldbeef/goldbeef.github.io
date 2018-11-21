@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Goldbeef&#39;s Home</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://goldbeef.cn/"/>
+  <updated>2018-11-21T08:15:41.798Z</updated>
+  <id>http://goldbeef.cn/</id>
+  
+  <author>
+    <name>goldbeef</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hello3</title>
+    <link href="http://goldbeef.cn/2018/11/21/hello3/"/>
+    <id>http://goldbeef.cn/2018/11/21/hello3/</id>
+    <published>2018-11-21T03:18:04.000Z</published>
+    <updated>2018-11-21T08:15:41.798Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="group3" scheme="http://goldbeef.cn/categories/group3/"/>
+    
+    
+      <category term="cpp3" scheme="http://goldbeef.cn/tags/cpp3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hello2</title>
+    <link href="http://goldbeef.cn/2018/11/20/hello2/"/>
+    <id>http://goldbeef.cn/2018/11/20/hello2/</id>
+    <published>2018-11-20T06:14:43.000Z</published>
+    <updated>2018-11-21T03:26:19.408Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="group2" scheme="http://goldbeef.cn/categories/group2/"/>
+    
+    
+      <category term="cpp2" scheme="http://goldbeef.cn/tags/cpp2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hello1</title>
+    <link href="http://goldbeef.cn/2018/11/20/hello1/"/>
+    <id>http://goldbeef.cn/2018/11/20/hello1/</id>
+    <published>2018-11-20T06:14:43.000Z</published>
+    <updated>2018-11-21T03:26:07.786Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="group1" scheme="http://goldbeef.cn/categories/group1/"/>
+    
+    
+      <category term="cpp1" scheme="http://goldbeef.cn/tags/cpp1/"/>
+    
+  </entry>
+  
+</feed>

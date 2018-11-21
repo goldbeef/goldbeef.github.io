@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[hello3]]></title>
+    <url>%2F2018%2F11%2F21%2Fhello3%2F</url>
+    <content type="text"></content>
+      <categories>
+        <category>group3</category>
+      </categories>
+      <tags>
+        <tag>cpp3</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[hello2]]></title>
+    <url>%2F2018%2F11%2F20%2Fhello2%2F</url>
+    <content type="text"></content>
+      <categories>
+        <category>group2</category>
+      </categories>
+      <tags>
+        <tag>cpp2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[hello1]]></title>
+    <url>%2F2018%2F11%2F20%2Fhello1%2F</url>
+    <content type="text"></content>
+      <categories>
+        <category>group1</category>
+      </categories>
+      <tags>
+        <tag>cpp1</tag>
+      </tags>
+  </entry>
+</search>
